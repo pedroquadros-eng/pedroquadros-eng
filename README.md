@@ -50,4 +50,4 @@ src="https://github-readme-stats.vercel.app/api?username=pedroquadros-eng&show_i
     alt= "GitHub Stats"
     height= '200'
     style = "padding-right : 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroquadros-eng&theme=tokyonight&layout=compact&custom_tittle=Tecnologia&langs_count2&locale=pt-br" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroquadros-eng&theme=tokyonight&layout=compact&custom_tittle=Tecnologia&langs_count7&locale=pt-br" />
